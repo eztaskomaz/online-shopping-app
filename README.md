@@ -2,7 +2,7 @@
 
 This project was created to develop an online shopping app.
 
-React, MaterialUI and Commercejs was used to develop this project.
+React, MaterialUI, Commerce.js and Stripe was used to develop this project.
 
 https://online-shopping-app-by-eztaskomaz.netlify.app/
 
