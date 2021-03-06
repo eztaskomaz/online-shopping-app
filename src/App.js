@@ -1,9 +1,11 @@
 import './App.css';
+import Products from "./components/Products";
 
-function App() {
+const App = () => {
   return (
     <div className="App">
-      <h1>Online Shopping App</h1>
+        <h1>Online Shopping App</h1>
+        <Products/>
     </div>
   );
 }
